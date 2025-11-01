@@ -5,14 +5,14 @@ Repositori ini berisi dataset dan ringkasan putusan pengadilan yang digunakan un
 ---
 
 *📂 Struktur Folder*
-bash
+```bash
 .
 ├── dataset/
 │   └── dataset.zip
 │
 └── overview/
     └── ringkasan_putusan.csv
-
+```
 *🧾 Penjelasan:*
 
 - dataset/
