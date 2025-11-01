@@ -45,7 +45,7 @@ Repositori ini dibuat untuk mendukung penelitian dalam bidang:
 
 1. Clone repositori ini:
 bash
-git clone https://github.com/username/nama-repo.git
+git clone [https://github.com/username/nama-repo.git](https://github.com/yunitasangadji/Dataset-Narkotika_332_352.git)
 
 2. Ekstrak dataset:
 bash
