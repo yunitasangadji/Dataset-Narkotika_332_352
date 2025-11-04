@@ -1,6 +1,14 @@
 <h2 align="center">📘 <b>Analisis Putusan Pengadilan – Dataset dan Ringkasan</b> 📘</h2>
 
-Repositori ini berisi dataset dan ringkasan putusan pengadilan yang digunakan untuk keperluan penelitian atau pengembangan sistem berbasis analisis teks hukum, seperti Case-Based Reasoning (CBR), Text Classification, atau Information Retrieval.
+Repositori ini berisi dataset dan ringkasan putusan pengadilan yang digunakan untuk keperluan penelitian atau pengembangan sistem berbasis analisis teks hukum, seperti Case-Based Reasoning (CBR), Text Classification, atau Information Retrieval. 
+Tahun Putusan:
+Dataset ini berasal dari tahun 2022 - 2025.
+
+Catatan:
+
+- Instruksi tugas merekomendasikan putusan tahun 2023–2025.
+- Namun, dikarenakan keterbatasan akses data pada rentang tahun tersebut, dataset ini menggunakan putusan dari tahun 2022.
+- Semua putusan telah diproses untuk keperluan preprocessing sebelum analisis lebih lanjut.
 
 ---
 
